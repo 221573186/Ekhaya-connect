@@ -1,6 +1,7 @@
 # Product Backlog
 
-This backlog represents the prioritized list of all features and tasks required for the Ekhaya Connect project. *Note: The live tracking of this backlog was managed via our Trello Board.*
+This backlog represents the prioritized list of all features and tasks required for the Ekhaya Connect project. 
+*Note: The live tracking of this backlog was managed via our Trello Board.*
 
 | Task / Feature | Category | Priority | Assignee(s) |
 | :--- | :--- | :--- | :--- |
