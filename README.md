@@ -17,7 +17,7 @@
 ## Portfolio Index
 Click the links below to view the specific Agile artifacts and reflections:
 
-*    **[1. Agile Team Charter](./01-Agile-Team-Charter.md)**
+*    **[1. Agile Team Charter](./01-Agile-Project-Charter.md)**
 *    **[2. User Stories & Tasks](./02-User-Stories-and-Tasks.md)**
 *    **[3. Product Backlog](./03-Product-Backlog.md)**
 *    **[4. Sprint Backlog](./04-Sprint-Backlog.md)**
