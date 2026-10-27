@@ -52,6 +52,6 @@ Click the links below to view the specific Agile artifacts and reflections:
 ### Trello Board (Product Backlog & Sprints)
 ![Trello Board](Trello.jpeg)
 ### Agile Logbook (Daily Standups)
-![Logbook1 Part 1](Logbook-1.png)
+![Logbook1 Part 1](Logbook1.png)
 ![Logbook1 Part 2](Logbook-2.jpeg) 
 ![Logbook 21](Logbook-3.png)
