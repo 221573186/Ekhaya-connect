@@ -42,7 +42,7 @@ Click the links below to view the specific Agile artifacts and reflections:
 *   **Reflection:** The Business Model Canvas was the "big picture" moment for our team. It forced me to confront the financial realities of our WISP idea. By mapping out our costs against our revenue, I understood the importance of scale and customer retention.
 
 ### 5. Solution Architecture
-![Ekhaya Connect Solution Architecture](Ekhaya-Connect-Solution-archetecture.jpeg)
+![Ekhaya Connect Solution Architecture](Solution-architecture.jpeg)
 
 **Description:** A comprehensive end-to-end architecture diagram mapping out the Subscriber platform, Application/API Layer, Core Orchestration Engine, Network Operations Engine, and External Ecosystem.
 
