@@ -1,6 +1,6 @@
 # Ekhaya Connect: Affordable WISP Project
 **Module:** PRP371S - Entrepreneurial WIL Project
-**Student:** Sikhutaze Joseph
+**Student:** Bongiwe Ntwasa
 **Project:** Portfolio of Evidence (Agile)
 
 ##  Project Overview
@@ -42,7 +42,7 @@ Click the links below to view the specific Agile artifacts and reflections:
 *   **Reflection:** The Business Model Canvas was the "big picture" moment for our team. It forced me to confront the financial realities of our WISP idea. By mapping out our costs against our revenue, I understood the importance of scale and customer retention.
 
 ### 5. Solution Architecture
-![Ekhaya Connect Solution Architecture](solution-architecture.jpeg)
+![Ekhaya Connect Solution Architecture](Ekhaaya-Connect-solution-architecture.jpeg)
 
 **Description:** A comprehensive end-to-end architecture diagram mapping out the Subscriber platform, Application/API Layer, Core Orchestration Engine, Network Operations Engine, and External Ecosystem.
 
@@ -50,7 +50,8 @@ Click the links below to view the specific Agile artifacts and reflections:
 
 ## Visual Evidence
 ### Trello Board (Product Backlog & Sprints)
-![Trello Board](Trello.png)
+![Trello Board](Trello.jpeg)
 ### Agile Logbook (Daily Standups)
-![Logbook Part 1](agile-logbook-1.png)
-![Logbook Part 2](agile-logbook-2.png) 
+![Logbook1 Part 1](Logbook-1.png)
+![Logbook1 Part 2](Logbook-2.jpeg) 
+![Logbook 21](Logbook-3.png)
